@@ -1,4 +1,3 @@
-package Jetbrains-Academy-ASCII-Mirror-Project.Stage-3;
 import java.io.*;
 import java.util.*;
 
