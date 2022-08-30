@@ -1,5 +1,3 @@
-package Jetbrains-Academy-ASCII-Mirror-Project.Stage-4;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
