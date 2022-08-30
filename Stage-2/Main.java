@@ -1,4 +1,3 @@
-package Jetbrains-Academy-ASCII-Mirror-Project.Stage-2;
 import java.util.Scanner;
 
 public class Main {
